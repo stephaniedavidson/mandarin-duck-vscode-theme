@@ -2,10 +2,10 @@
     "name": "MandarinDuck",
     "displayName": "MandarinDuck",
     "description": "Theme based on the Central Park mandarin duck",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "repository": {
-        "type":"git",
-        "url":"https://github.com/stephaniedavidson/mandarin-duck-vscode-theme.git"
+        "type": "git",
+        "url": "https://github.com/stephaniedavidson/mandarin-duck-vscode-theme.git"
     },
     "publisher": "StephDavidson",
     "engines": {
